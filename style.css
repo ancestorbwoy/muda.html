@@ -1,0 +1,291 @@
+body{
+    font-family: "poppings" "sans-serif"; 
+    background-color: #F4F5F7;
+    margin: 0;
+}
+
+#navigation{
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 143px;
+    padding-right: 143px;
+}
+
+#navigation h1{
+    color: #6070ff;
+    font-size: 18px;
+    font-weight: 700px;
+    line-height: 20px;
+}
+
+#navigation ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px 12px;
+}
+
+#navigation ul li a{
+    text-decoration: none;
+    color: #344583;
+    font-size: 15px;
+    font-size: 500px;
+    line-height: 20px;
+}
+
+#header{
+    padding: 260px 289px;
+    background-color: #fff;
+    border-bottom-left-radius: 15%;
+    background-image: url(/Header\ bg@2x.png);
+    background-repeat: no-repeat;
+}
+
+#header h1{
+    font-weight: 700px;
+    color: #091E42;
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing:0.37px;
+}
+
+#header p{
+    font-weight: 400;
+    font-size:  20px;
+    line-height: 20px;
+
+
+}
+
+#header h3{
+    font-size:  16px;
+    color: #7e8cff;
+    line-height: 60px;
+    
+
+}
+
+#portfolio{
+     padding: 142px 142px;
+}
+
+.portfolio-card{
+    display: flex;
+    flex-direction: row;
+    padding: 24px 24px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.portfolio-card img{
+    width: 50%;
+    margin-right: 22px;
+}
+
+.port-folio-items{
+    display: flex;
+    flex-direction: column;
+}
+
+.categories{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.categories ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.tags{
+    display: flex;
+    gap: 10px;
+}
+
+.tags h3{
+    background-color: #EBEBFF;
+    padding: 10px;
+    color: #6070FF;
+    border-radius: 10px;
+}
+
+.port-folio-items a{
+    color: #396DF2;
+    border: 2px solid #6070FF;
+    width: 14%;
+    border-radius: 10px;
+    padding: 10px;
+    align-content: center;
+}
+
+#portfolio2{
+    padding: 142px 142px;
+    display: flex;
+}
+
+.portfolio-card2{
+    display: flex;
+    flex-direction: column;
+    padding: 24px 24px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.portfolio-card2 img{
+    width: 544px;
+    height: 496px;
+    margin-right: 22px;
+}
+
+.port-folio-items2{
+    display: flex;
+    flex-direction: column;
+}
+
+.categories2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.categories2 ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.tags2{
+    display: flex;
+    gap: 10px;
+}
+
+.tags2 h3{
+    background-color: #EBEBFF;
+    padding: 10px;
+    color: #6070FF;
+    border-radius: 10px;
+}
+
+.port-folio-items2 a{
+    color: #396DF2;
+    border: 2px solid #6070ff;
+    width: 14%;
+    border-radius: 10px;
+    padding: 10px;
+    align-content: center;
+}
+
+#portfolio3{
+     padding: 142px 142px;
+}
+
+.portfolio-card3{
+    display: flex;
+    flex-direction: row;
+    padding: 24px 24px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.portfolio-card3 img{
+    width: 50%;
+    margin-right: 22px;
+}
+
+.port-folio-items3{
+    display: flex;
+    flex-direction: column;
+}
+
+.categories3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.categories3 ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.tags3{
+    display: flex;
+    gap: 10px;
+}
+
+.tags3 h3{
+    background-color: #EBEBFF;
+    padding: 10px;
+    color: #6070FF;
+    border-radius: 10px;
+}
+
+.port-folio-items3 a{
+    color: #396DF2;
+    border: 2px solid #6070FF;
+    width: 14%;
+    border-radius: 10px;
+    padding: 10px;
+    align-content: center;   
+}
+
+#portfolio4{
+    padding: 142px 142px;
+    display: flex;
+}
+
+.portfolio-card4{
+    display: flex;
+    flex-direction: column;
+    padding: 24px 24px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.portfolio-card4 img{
+    width: 544px;
+    height: 496px;
+    margin-right: 22px;
+}
+
+.port-folio-items4{
+    display: flex;
+    flex-direction: column;
+}
+
+.categories4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.categories4 ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.tags4{
+    display: flex;
+    gap: 10px;
+}
+
+.tags4 h3{
+    background-color: #EBEBFF;
+    padding: 10px;
+    color: #6070FF;
+    border-radius: 10px;
+}
+
+.port-folio-items4 a{
+    color: #396DF2;
+    border: 2px solid #6070ff;
+    width: 14%;
+    border-radius: 10px;
+    padding: 10px;
+    align-content: center;
+}
+
